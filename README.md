@@ -9,7 +9,16 @@
 
 ## Sobre o Projeto
 
-Sistema desktop completo para gestão de produtos desenvolvido em Python com interface gráfica Tkinter e banco de dados PostgreSQL. O sistema permite realizar operações CRUD (Create, Read, Update, Delete) de forma intuitiva e eficiente.
+Sistema desktop completo para gestão de produtos desenvolvido em Python com interface gráfica Tkinter e banco de dados PostgreSQL. 
+O sistema permite realizar operações CRUD (Create, Read, Update, Delete) de forma intuitiva e eficiente.
+
+---
+
+## Demonstração
+
+![Demonstração](MeuEstoque.png)
+
+---
 
 ### Funcionalidades
 
